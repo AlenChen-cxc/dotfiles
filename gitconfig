@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alechenwolf@gmail.com
+	name = Alen Chen
